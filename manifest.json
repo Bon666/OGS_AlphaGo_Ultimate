@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "AlphaGo OGS Real-time Assistant",
+  "version": "2.0",
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": ["https://online-go.com/*"],
+  "action": {
+    "default_popup": "index.html"
+  }
+}
